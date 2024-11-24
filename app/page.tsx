@@ -2,7 +2,7 @@ const Home = () => {
 
   return (
     <div className="h-screen bg-[#fceecb] grid items-center">
-      <div className="h-[80%] w-[80%] grid grid-cols-10 justify-self-center gap-6">
+      <div className="h-[20%] sm:h-[40%] md:h-[60%] lg:h-[80%] w-[80%] grid grid-cols-10 justify-self-center gap-6">
 
         <div className="bg-[#70d9d2] col-span-2"></div>
 

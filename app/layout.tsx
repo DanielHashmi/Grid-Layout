@@ -12,7 +12,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-
       <body className={`font-sans text-white `} >
         {children}
       </body>
